@@ -1,4 +1,7 @@
-
+/*
+    Utilize the date class and also the css property rotate, float or flex
+    
+*/
 
 var hourHand = document.getElementById('hourHand');
 var minHand = document.getElementById('minHand');

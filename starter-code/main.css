@@ -8,15 +8,15 @@ html, body, .container {
     justify-content: center;
 }
 
-.clock {
+.analogue_clock {
     position: relative;
-    width: 500px;
-    height: 500px;
-    background: url(http://www.script-tutorials.com/demos/213/css/cface.png);
+    width: 400px;
+    height: 400px;
+    background: url(img/clock_face.jpg);
 }
 
 .hands { 
     position: absolute;
-    top: 120px;
-    left: 120px;
+    top: 0px;
+    left: 10px;
 }
